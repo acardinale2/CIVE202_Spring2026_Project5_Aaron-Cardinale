@@ -1,5 +1,5 @@
 # Project-5
-### This coding project analyzes drinking water accessin Sub-Saharan Africa using the JMP dataset. The project displays how access has improved over time, and finds the countries that are most at need for clean water. The Findings Show that Angola and Kenya still have over a 20% gap in their populations drinking water access, and our firm believes the water project should focus funding on those areas.
+### This coding project analyzes drinking water access Sub-Saharan Africa using the JMP dataset. The project displays how access has improved over time, and finds the countries that are most at need for clean water. The Findings Show that Angola and Kenya still have over a 20% gap in their populations drinking water access, and our firm believes the water project should focus funding on those areas.
 
 # Features
 ## -Uses custom functions to translate excel logic and into the python language
